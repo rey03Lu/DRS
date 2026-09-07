@@ -6,8 +6,8 @@ Reutilización de código con los principios fundamentales de la Programación O
 
 | Nombre | Carnet |
 |--------|--------|
-| Francisco Javier Peraza Martínez | PM18077 |
 | Reyna Guadalupe Miranda Rivas | MR21082 |
+| Francisco Javier Peraza Martínez | PM18077 |
 
 ## Requisitos
 
