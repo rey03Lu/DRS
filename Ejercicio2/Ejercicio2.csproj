@@ -10,3 +10,4 @@
     <Compile Include="Empleado.cs" />
     <Compile Include="Program.cs" />
   </ItemGroup>
+</Project>
